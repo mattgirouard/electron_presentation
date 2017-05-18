@@ -1,3 +1,9 @@
+Here are my screenshots for the workshop:
+![Image 1](screenshot1.png)
+![Image 2](screenshot2.png)
+![Image 3](screenshot3.png)
+![Image 4](screenshot4.png)
+
 # Electron Workshop
 
 **A quick way to see Electron in action.**
